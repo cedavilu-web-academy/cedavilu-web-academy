@@ -87,7 +87,11 @@
 <p>En este curso te explico desde un nivel cero a trabajar con <strong>WordPress </strong>, enseñándote poco a poco la manera como se trabaja y así lograr aprender a generar sitios web profesionales, para que futuramente puedas trabajar de forma remota.  
 </p>
 </div>
+</td>
+</table>
 
+<table>
+<tr>
 <td width="50%">
 <h3 align="center">Curso: Boostrap</h3>
 <div align="center">
@@ -103,12 +107,8 @@
 <p>En este curso te explico como puedes crear una página web en minutos con <strong>Bootstrap</strong>, además te enseño las nuevas bondades que nos ofrece este extraordinario Framework. 
 </p>
 </div>
-</td>  
-</table> 
+</td>
 
-                                                                                      
-<table>
-<tr>  
 <td width="50%">
 <h3 align="center">Inteligencia Artificial Generativa</h3>
 <div align="center">
@@ -124,8 +124,8 @@
 <p>Aquí te dispongo toda una serie de videos, donde te explico como pudes aprovechar la <strong>La Inteligencia Artificial Generativa</strong> para aumentar tu productividad en el desarrollo de aplicaciones web. 
 </p>
 </div>
-                                                                                      
-</td>  
+</td> 
+</table>
                                                                                 
 </div>
 <br>

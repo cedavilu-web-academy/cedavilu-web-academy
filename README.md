@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso: Introducción a la Programación</h3>
+<h3 align="center">Curso: <br>Introducción a la Programación</h3>
 <div align="center">
 <a href="[https://github.com/ArisGuimera/Android-Expert](https://www.youtube.com/watch?v=X5ltxpSyHpg&list=PLFD9PmrtBMDAFBYiJgheDb9TffFTd5hMs&index=1&t=284s)" target="_blank"><img src="https://i.ytimg.com/vi/X5ltxpSyHpg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmtKt7htyt8Okr4dRNRCWpNJe9ew" width="400" alt="Curso: Introducción a la Programación"></a>
 <p>
@@ -35,7 +35,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Desarrollo web con HTML5 y CSS3</h3>
+<h3 align="center">Curso: <br>Desarrollo web con HTML5 y CSS3</h3>
 <div align="center">                                       
 <a href="https://youtu.be/ift2bSMiVBg?si=B1imfTiFlqllgfui" target="_blank"><img src="https://i.ytimg.com/vi/ift2bSMiVBg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvV-G1mrc0Wq2HqoI1Q07wBGPCLg" width="400" alt="Curso: Desarrollo web con HTML5 y CSS3"></a>
 <br>
@@ -73,6 +73,41 @@
 </td>       
 
 <td width="50%">
+<h3 align="center">Curso: WordPress</h3>
+<div align="center">
+<a href="https://youtu.be/lPfG6Uxi0C8?si=VVvTBBDk1t6p2fb8" target="_blank"><img src="https://i.ytimg.com/vi/lPfG6Uxi0C8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCq62CMoR_aVWPi-z7pHANuJwIcAA" width="400" alt="Curso: WordPress"></a>
+<p>
+<a href="https://github.com/cedavilu-web-academy/youtube-proyecto-wordpress-final" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/lPfG6Uxi0C8?si=VVvTBBDk1t6p2fb8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>En este curso te explico desde un nivel cero a trabajar con <strong>WordPress </strong>, enseñándote poco a poco la manera como se trabaja y así lograr aprender a generar sitios web profesionales, para que futuramente puedas trabajar de forma remota.  
+</p>
+</div>
+                                                                                      
+</td>  
+<td width="50%">
+<h3 align="center">Inteligencia Artificial Generativa</h3>
+<div align="center">
+<a href="https://youtu.be/Ij04BHLSLd0?si=ieRs272JkQcPSHn_" target="_blank"><img src="https://i.ytimg.com/vi/Ij04BHLSLd0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBT-MbtKgVXVRGJ6G1y5OUPxLE2bw" width="400" alt="Inteligencia Artificial Generativa"></a>
+<p>
+<a href="https://github.com/cedavilu-web-academy/youtube-consumo-apis-externas-con-js-y-iag" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/Ij04BHLSLd0?si=ieRs272JkQcPSHn_" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aquí te dispongo toda una serie de videos, donde te explico como pudes aprovechar la <strong>La Inteligencia Artificial Generativa</strong> para aumentar tu productividad en el desarrollo de aplicaciones web. 
+</p>
+</div>
+                                                                                      
+</td>  
+
+<td width="50%">
 <h3 align="center">Curso: Boostrap</h3>
 <div align="center">
 <a href="https://youtu.be/NBJmn-zIXEE?si=LPnABad0TOk_OBLb" target="_blank"><img src="https://i.ytimg.com/vi/NBJmn-zIXEE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPoJO7rf8T6sRPMiCjThfZH3b27g" width="400" alt="Curso: Boostrap"></a>
@@ -89,6 +124,7 @@
 </div>
                                                                                       
 </td>  
+
 </table>                                                                                 
 </div>
 <br>

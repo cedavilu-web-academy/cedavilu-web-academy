@@ -37,7 +37,7 @@
                <br>
 <h3 align="center">Curso: Desarrollo web con HTML5 y CSS3</h3>
 <div align="center">                                       
-<a href="https://youtu.be/ift2bSMiVBg?si=B1imfTiFlqllgfui" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso: Desarrollo web con HTML5 y CSS3"></a>
+<a href="https://youtu.be/ift2bSMiVBg?si=B1imfTiFlqllgfui" target="_blank"><img src="https://i.ytimg.com/vi/ift2bSMiVBg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvV-G1mrc0Wq2HqoI1Q07wBGPCLg" width="400" alt="Curso: Desarrollo web con HTML5 y CSS3"></a>
 <br>
 <p>
 <a href="https://github.com/cedavilu-web-academy/youtube-archivos-trabajados-curso-introduccion-al-desarrollo-web" target="_blank">

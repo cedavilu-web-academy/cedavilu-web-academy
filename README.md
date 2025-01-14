@@ -87,8 +87,28 @@
 <p>En este curso te explico desde un nivel cero a trabajar con <strong>WordPress </strong>, enseñándote poco a poco la manera como se trabaja y así lograr aprender a generar sitios web profesionales, para que futuramente puedas trabajar de forma remota.  
 </p>
 </div>
-                                                                                      
+
+<td width="50%">
+<h3 align="center">Curso: Boostrap</h3>
+<div align="center">
+<a href="https://youtu.be/NBJmn-zIXEE?si=LPnABad0TOk_OBLb" target="_blank"><img src="https://i.ytimg.com/vi/NBJmn-zIXEE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPoJO7rf8T6sRPMiCjThfZH3b27g" width="400" alt="Curso: Boostrap"></a>
+<p>
+<a href="https://github.com/cedavilu-web-academy/youtube-bootstrap" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/NBJmn-zIXEE?si=h7DNJE5ZOJi_smc4" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>En este curso te explico como puedes crear una página web en minutos con <strong>Bootstrap</strong>, además te enseño las nuevas bondades que nos ofrece este extraordinario Framework. 
+</p>
+</div>
 </td>  
+</table> 
+
+                                                                                      
+<table>
+<tr>  
 <td width="50%">
 <h3 align="center">Inteligencia Artificial Generativa</h3>
 <div align="center">
@@ -106,26 +126,7 @@
 </div>
                                                                                       
 </td>  
-
-<td width="50%">
-<h3 align="center">Curso: Boostrap</h3>
-<div align="center">
-<a href="https://youtu.be/NBJmn-zIXEE?si=LPnABad0TOk_OBLb" target="_blank"><img src="https://i.ytimg.com/vi/NBJmn-zIXEE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPoJO7rf8T6sRPMiCjThfZH3b27g" width="400" alt="Curso: Boostrap"></a>
-<p>
-<a href="https://github.com/cedavilu-web-academy/youtube-bootstrap" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/NBJmn-zIXEE?si=h7DNJE5ZOJi_smc4" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>En este curso te explico como puedes crear una página web en minutos con <strong>Bootstrap</strong>, además te enseño las nuevas bondades que nos ofrece este extraordinario Framework. 
-</p>
-</div>
-                                                                                      
-</td>  
-
-</table>                                                                                 
+                                                                                
 </div>
 <br>
 

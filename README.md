@@ -126,9 +126,83 @@
 </div>
 </td> 
 </table>
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Aprende a crear formularios profesionales con input animadosp</h3>
+<div align="center">
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDC0AkfOWbt3YjLb2xTtj2Vl&si=ktEao-d0iuOtQbcx" target="_blank"><img src="https://i.ytimg.com/vi/NBJmn-zIXEE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPoJO7rf8T6sRPMiCjThfZH3b27g" width="400" alt="Aprende a crear formularios profesionales con input animados"></a>
+<p>
+<a href="https://github.com/cedavilu-web-academy/youtube-formulario-login-solo-con-html5-css3-input-animados" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDC0AkfOWbt3YjLb2xTtj2Vl&si=ktEao-d0iuOtQbcx" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a crear formularios profesionales utilizando HTML5 y CSS3. 
+</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">HTML5 y CSS3 - Trucos innovadores para sorprender a tus clientes.</h3>
+<div align="center">
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDCTRYLOuVmGq3em9JL6Wv7j&si=Nikskvt6V2MpvuPW" target="_blank"><img src="https://i.ytimg.com/vi/IVV0VGDyuqo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuSyTg3udlweJW1scydCmB2y1MKA" width="400" alt="HTML5 y CSS3 - Trucos innovadores para sorprender a tus clientes."></a>
+<p>
+<a href="https://github.com/cedavilu-web-academy/youtube-consumo-apis-externas-con-js-y-iag" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDCTRYLOuVmGq3em9JL6Wv7j&si=Nikskvt6V2MpvuPW" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aquí te dispongo toda una serie de videos, donde te explico  varios trucos innovadores para sorprender a tus clientes, utilizando solo HTML5 y CSS3.
+</p>
+</div>
+</td> 
+</table>
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Desarrollo de una página web con HTML5 y CSS3</h3>
+<div align="center">
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDBoGl3VweCzYSRd5KHjgoQB&si=Msuw6GimR2KbU-3C" target="_blank"><img src="https://i.ytimg.com/vi/GECPIlc37hg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7hxnJwuLUxTanAlQVg0wutRvqlA" width="400" alt="Desarrollo de una página web con HTML5 y CSS3"></a>
+<p>
+<a href="https://github.com/cedavilu-web-academy/youtube-proyecto-base-html-css" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDBoGl3VweCzYSRd5KHjgoQB&si=eLpqR1cGM2rsBxMA" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>En esta serie de videos, vas a lograr aprender y practicar el desarrollo de una página web utilizando solo HTML y CSS. 
+</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Desarrollo web con JavaScript - Avanzado</h3>
+<div align="center">
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDAuqE40-RezE4MVAukoNawo&si=Aj032OoKbfcAH8Xb" target="_blank"><img src="https://i.ytimg.com/vi/NpHPGURK9hU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCW3GGTD13il1BrtbzysI8Ud9kFrA" width="400" alt="Desarrollo web con JavaScript - Avanzado"></a>
+<p>
+<a href="https://github.com/cedavilu-web-academy/YouTube-Aprende-las-bases-de-javascript" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDAuqE40-RezE4MVAukoNawo&si=eWfOHjxchZk52oCE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>¿Qué vas a lograr?    Manipular las fechas de nuestro sistema operativo.    Manipular los tiempos del sistema operativo.    Trabajar con los objetos literales, como se construyen y cómo accedemos a ellos, utilidad de los mismos.    Manipular métodos avanzados de los arrays.    Conocer los métodos para trabajar con archivos en formato JSON.    Efectuar Validaciones de los formularios, desde el Front-end.    Consumir información que venga desde una API directamente en el front-end.    Entender cómo se pueden comunicar el front-end y el back-end a través de solicitudes asincrónicas.    Aprovechar la capacidad de almacenar datos en el navegador del usuario.    Entender cómo podemos atrapar datos que puedan venir desde el query string.    Aprovechar el uso de las Librerías y cómo implementarlas en nuestros proyectos. 
+</p>
+</div>
+</td> 
+</table>
                                                                                 
 </div>
 <br>
-
-
 

@@ -133,7 +133,7 @@
 <td width="50%">
 <h3 align="center">Aprende a crear formularios profesionales con input animadosp</h3>
 <div align="center">
-<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDC0AkfOWbt3YjLb2xTtj2Vl&si=ktEao-d0iuOtQbcx" target="_blank"><img src="https://i.ytimg.com/vi/NBJmn-zIXEE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPoJO7rf8T6sRPMiCjThfZH3b27g" width="400" alt="Aprende a crear formularios profesionales con input animados"></a>
+<a href="https://youtube.com/playlist?list=PLFD9PmrtBMDC0AkfOWbt3YjLb2xTtj2Vl&si=ktEao-d0iuOtQbcx" target="_blank"><img src="https://i.ytimg.com/vi/Ksg6DEze-14/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwB8hEtp53eG1G-4UwbxLQoXBJ_w" width="400" alt="Aprende a crear formularios profesionales con input animados"></a>
 <p>
 <a href="https://github.com/cedavilu-web-academy/youtube-formulario-login-solo-con-html5-css3-input-animados" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -142,7 +142,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a crear formularios profesionales utilizando HTML5 y CSS3. 
+<p>En esta serie de videos te explico de forma gacil y sencilla como puedes crear formularios profesionales utilizando solo HTML5 y CSS3. 
 </p>
 </div>
 </td>

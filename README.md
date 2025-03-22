@@ -10,7 +10,7 @@
 - 📗 Educational disseminator and content creator
 - 📲 Fullstack Web Developer
 - 🎥 Te enseño a todo lo referente al Desarrollo Web: [Youtube](https://www.youtube.com/@CedaviluWebAcademy )
-- 🧑‍🏫 Creador de [Cedavilu web academy(https://cedavilu.com)
+- 🧑‍🏫 CEO de [Cedavilu web academy(https://cedavilu.com)
 <br>
 
 ## Te enseño gratis 
